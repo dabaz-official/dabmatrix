@@ -1,0 +1,8 @@
+@import url('./main-layout.css');
+@import url('./views/dashboard-view.css');
+@import url('./views/orders-view.css');
+@import url('./views/company-view.css');
+@import url('@fontsource/inter/index.css');    html {
+--lumo-font-family: Inter;
+
+    }
